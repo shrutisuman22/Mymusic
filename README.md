@@ -1,2 +1,2 @@
 # Mymusic
-This is my first project. I've made this just for fun! 
+This is my first project! Welcome!
